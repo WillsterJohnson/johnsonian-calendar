@@ -5,7 +5,7 @@
 *What if our calendar was based on good scheduling and math instead of religion and (loosely) the moon?*
 
 Author: Will 'Willster' Johnson
-Date: 2022-12-14
+Date: 2022w72c
 
 ## Overview ##
 
